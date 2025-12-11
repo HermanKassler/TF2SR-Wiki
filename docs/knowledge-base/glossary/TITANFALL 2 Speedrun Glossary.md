@@ -15,7 +15,7 @@ A technique used for aerial movement. By holding left or right in the air and mo
 A sudden aerial movement that occurs on directional keyboard inputs that causes the player to “lurch” in the pressed direction if pressed within .5 seconds of jumping that generally results in a loss of velocity depending on the timing of the lurch.
 
 **Tap strafe** \-
-An extension of traditional air strafing. Refers to rapidy tapping W (or “forward”) shortly after jumping/double jumping while holding a strafe input to stack strafe lurches and make sharp turns. Only possible on PC.
+An extension of traditional air strafing. Refers to rapidly tapping W (or “forward”) shortly after jumping/double jumping while holding a strafe input to stack strafe lurches and make sharp turns. Only possible on PC.
 
 **Fzzy strafe** \-
 Similar to tap strafing, but relies on rapidly tapping left or right inputs rather than tapping forward during a strafe. Fzzy strafing essentially stacks strafe lurches over and over to allow for very sharp corners at the cost of significant speed. Only possible on PC.
@@ -201,7 +201,7 @@ _Most all of the following terms, names, and tricks can be found with video in t
 
 **Reload skip** \- Performed at the shooting range by reloading the pistol and picking up the R201 during the pistol reload animation. This skips reloading the R201.
 
-**Broken Gauntet** \- Refers to moving through the Gauntlet strating gate too quickly, resulting in the Gauntlet itself not starting. Some runners attempt to reach the platform where FS-1041 is called down without being teleported by Lasitmosa when this happens.
+**Broken Gauntlet** \- Refers to moving through the Gauntlet strating gate too quickly, resulting in the Gauntlet itself not starting. Some runners attempt to reach the platform where FS-1041 is called down without being teleported by Lastimosa when this happens.
 
 ### **BT-7274**
 
@@ -320,7 +320,7 @@ After disembark clipping out of bounds for Ash skip, Hoverless is performed by r
 **E-smoke Ash Skip** \-
 A skip which exploits bt:s reaction to an e-smoke in order to clip through the door in the Ash fight.
 
-**DAsh Skip** \-
+**D-Ash Skip** \-
 A skip which uses precise movements and dashes in order to clip through the door in the Ash fight.
 
 **Pilot Ash Trigger Skip (PATS)** \-
@@ -433,7 +433,7 @@ Refers to a strat that uses fzzy or tap strafing to skip a small portion of the 
 **Fast fans** \-
 A difficult trick that requires you to carry your momentum from the fan launch and wall kick off the first fan at the end of the level, skip jumping off the second fan, and then wall kick off the third fan.
 
-- **Fzzy fans:** A faster variation of fast fans that doesn’t turn off the first fan.
+- **Fzzy fans:** A faster variation of fast fans that doesn't turn off the first fan.
 
 - **Breezy fans:** An even faster and more difficult version of fzzy fans that only turns off the third fan.
 
